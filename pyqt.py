@@ -19,6 +19,7 @@ try:
         vehicle_logo_dict = json.load(f)
 except Exception as e:
     vehicle_logo_dict = {} 
+    
 
 # ==========================================
 # 💡 核心升级：绝对穿透的流捕获器 (修复无控制台打包闪退)
