@@ -1,0 +1,22 @@
+[2026-08-16 18:30:06] [ERROR] [ERROR] ❌ 加载 HCNetSDK.dll 失败: Could not find module 'HCNetSDK.dll' (or one of its dependencies). Try using the full path with constructor syntax.
+[2026-08-16 18:30:07] [INFO] [SYSTEM] 设备状态变更 | IP: 192.168.100.67 | 状态: 🟡 正在验证 -> 🟢 实时在线
+[2026-08-16 18:32:52] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:32:53] [INFO] [SYSTEM] ✅ 成功登录摄像机 192.168.100.66，正在建立报警长连接...
+[2026-08-16 18:32:53] [INFO] [SYSTEM] 🚀 192.168.100.66 SDK 内存回调引擎已全速运行！
+[2026-08-16 18:32:53] [INFO] [SYSTEM] UI添加设备 192.168.100.66 SDK连接成功
+[2026-08-16 18:32:55] [INFO] [SYSTEM] 设备状态变更 | IP: 192.168.100.66 | 状态: 🟢 在线 -> 🟢 实时在线
+[2026-08-16 18:33:40] [INFO] [SYSTEM] 设备状态变更 | IP: 192.168.100.82 | 状态: 🟡 正在验证 -> 🟢 实时在线
+[2026-08-16 18:35:52] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:36:17] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:36:40] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:36:53] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:41:44] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:49:24] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:54:35] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 18:59:11] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 19:33:46] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 21:42:12] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 22:30:38] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-16 23:19:26] [INFO] [SYSTEM] ✅ 成功加载海康 HCNetSDK.dll 核心驱动
+[2026-08-17 00:12:19] [INFO] [SYSTEM] ✅ 成功加载 HCNetSDK.dll 核心驱动
+[2026-08-17 00:38:26] [INFO] [SYSTEM] ✅ 成功加载 HCNetSDK.dll 核心驱动
